@@ -1,6 +1,6 @@
 # CSI Staff Home
 
-2nd year Summer Semester project.
+2nd year Summer Semester project, TEAMWORK.
 
 End-back code of CSI Staff Home, a staff information management system.
 
